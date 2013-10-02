@@ -1,0 +1,20 @@
+{
+  "name": "PNG2SVG",
+  "version": "0.1.0",
+  "description": "Convert PNG images to blocky SVG images for use with retro sprites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./example/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RangerMauve/PNG2SVG.git"
+  },
+  "author": "RangerMauve",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "26dedec1c545be4bb362cd087c2cd385b481cf9a",
+  "dependencies": {
+    "png.js": "~0.1.1"
+  }
+}
