@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node ./example/test.js"
   },
+  "bin": {
+    "png2svg": "./bin/png2svg.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/RangerMauve/PNG2SVG.git"
